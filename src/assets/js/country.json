@@ -1,0 +1,320 @@
+{
+    "country": [
+        {
+            "id": 1,
+            "name": "Afganistán"
+        },
+        {
+            "id": 2,
+            "name": "Albania"
+        },
+        {
+            "id": 3,
+            "name": "Alemania"
+        },
+        {
+            "id": 4,
+            "name": "Andorra"
+        },
+        {
+            "id": 5,
+            "name": "Angola"
+        },
+        {
+            "id": 6,
+            "name": "Antigua y Barbuda"
+        },
+        {
+            "id": 7,
+            "name": "Arabia Saudita / Arabia Saudí"
+        },
+        {
+            "id": 8,
+            "name": "Argelia"
+        },
+        {
+            "id": 9,
+            "name": "Argentina"
+        },
+        {
+            "id": 10,
+            "name": "Armenia"
+        },
+        {
+            "id": 11,
+            "name": "Australia"
+        },
+        {
+            "id": 12,
+            "name": "Austria"
+        },
+        {
+            "id": 13,
+            "name": "Azerbaiyán"
+        },
+        {
+            "id": 14,
+            "name": "Bahamas"
+        },
+        {
+            "id": 15,
+            "name": "Bangladés"
+        },
+        {
+            "id": 16,
+            "name": "Barbados"
+        },
+        {
+            "id": 17,
+            "name": "Baréin"
+        },
+        {
+            "id": 18,
+            "name": "Bélgica"
+        },
+        {
+            "id": 19,
+            "name": "Belice"
+        },
+        {
+            "id": 20,
+            "name": "Bielorrusia / Belarús"
+        },
+        {
+            "id": 21,
+            "name": "Benín"
+        },
+        {
+            "id": 22,
+            "name": "Birmania / Myanmar"
+        },
+        {
+            "id": 23,
+            "name": "Bolivia"
+        },
+        {
+            "id": 24,
+            "name": "Bosnia y Herzegovina / Bosnia-Herzegovina"
+        },
+        {
+            "id": 25,
+            "name": "Botsuana"
+        },
+        {
+            "id": 26,
+            "name": "Brasil"
+        },
+        {
+            "id": 27,
+            "name": "Brunéi"
+        },
+        {
+            "id": 28,
+            "name": "Bulgaria"
+        },
+        {
+            "id": 29,
+            "name": "Burkina Faso"
+        },
+        {
+            "id": 30,
+            "name": "Burundi"
+        },
+        {
+            "id": 31,
+            "name": "Bután"
+        },
+        {
+            "id": 32,
+            "name": "Cabo Verde"
+        },
+        {
+            "id": 33,
+            "name": "Camboya"
+        },
+        {
+            "id": 34,
+            "name": "Camerún"
+        },
+        {
+            "id": 35,
+            "name": "Canadá"
+        },
+        {
+            "id": 36,
+            "name": "Catar"
+        },
+        {
+            "id": 37,
+            "name": "República Centroafricana"
+        },
+        {
+            "id": 38,
+            "name": "Chad"
+        },
+        {
+            "id": 39,
+            "name": "República Checa / Chequia"
+        },
+        {
+            "id": 40,
+            "name": "Chile"
+        },
+        {
+            "id": 41,
+            "name": "China"
+        },
+        {
+            "id": 42,
+            "name": "Chipre"
+        },
+        {
+            "id": 43,
+            "name": "Colombia"
+        },
+        {
+            "id": 44,
+            "name": "Comoras"
+        },
+        {
+            "id": 45,
+            "name": "Congo"
+        },
+        {
+            "id": 46,
+            "name": "República Democrática del Congo"
+        },
+        {
+            "id": 47,
+            "name": "Corea del Norte"
+        },
+        {
+            "id": 48,
+            "name": "Corea del Sur"
+        },
+        {
+            "id": 49,
+            "name": "Costa de Marfil"
+        },
+        {
+            "id": 50,
+            "name": "Costa Rica"
+        },
+        {
+            "id": 51,
+            "name": "Croacia"
+        },
+        {
+            "id": 52,
+            "name": "Cuba"
+        },
+        {
+            "id": 53,
+            "name": "Dinamarca"
+        },
+        {
+            "id": 54,
+            "name": "Dominica"
+        },
+        {
+            "id": 55,
+            "name": "República Dominicana"
+        },
+        {
+            "id": 56,
+            "name": "Ecuador"
+        },
+        {
+            "id": 57,
+            "name": "Egipto"
+        },
+        {
+            "id": 58,
+            "name": "El Salvador"
+        },
+        {
+            "id": 59,
+            "name": "Emiratos Árabes Unidos"
+        },
+        {
+            "id": 60,
+            "name": "Eritrea"
+        },
+        {
+            "id": 61,
+            "name": "Eslovaquia"
+        },
+        {
+            "id": 62,
+            "name": "Eslovenia"
+        },
+        {
+            "id": 63,
+            "name": "España"
+        },
+        {
+            "id": 64,
+            "name": "Estados Unidos"
+        },
+        {
+            "id": 65,
+            "name": "Estonia"
+        },
+        {
+            "id": 66,
+            "name": "Etiopía"
+        },
+        {
+            "id": 67,
+            "name": "Filipinas"
+        },
+        {
+            "id": 68,
+            "name": "Finlandia"
+        },
+        {
+            "id": 69,
+            "name": "Fiyi"
+        },
+        {
+            "id": 70,
+            "name": "Francia"
+        },
+        {
+            "id": 71,
+            "name": "Gabón"
+        },
+        {
+            "id": 72,
+            "name": "Gambia"
+        },
+        {
+            "id": 73,
+            "name": "Georgia"
+        },
+        {
+            "id": 74,
+            "name": "Ghana"
+        },
+        {
+            "id": 75,
+            "name": "Granada"
+        },
+        {
+            "id": 76,
+            "name": "Grecia"
+        },
+        {
+            "id": 77,
+            "name": "Guatemala"
+        },
+        {
+            "id": 78,
+            "name": "Guinea"
+        },
+        {
+            "id": 89,
+            "name": "Guinea-Bisáu"
+        }
+    ]
+}

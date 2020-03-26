@@ -1,0 +1,22 @@
+<section class="chat-online">
+  <section class="users">
+    <p class="friends">Amigos</p>
+    <section class="user" *ngFor="let user of userChat">
+      <section class="imgProfileChat">
+        <img src="{{ user.srcImg }}" class="profileChat">
+      </section>
+      <section class="userNameChat">
+        <p class="nameChat">{{ user.name }}</p>
+        <section class="{{ user.online == true ? 'online' : 'offline' }}"></section>
+      </section>
+    </section>
+  </section>
+  <section class="section-search">
+    <form class="example-form">
+      <mat-form-field class="example-full-width">
+        <mat-label>Buscar</mat-label>
+        <input matInput [(ngModel)]="search" name="search">
+      </mat-form-field>
+    </form>
+  </section>
+</section>

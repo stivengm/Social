@@ -1,0 +1,34 @@
+<section class="pageSociallogin">
+  <mat-card class="sectionLogin">
+    <div class="row">
+      <div class="col-md-6 sectionInfo">
+        Hola 1
+      </div>
+      <div class="col-md-6 sectionForm">
+        <p class="titleLogin">Login</p>
+        <form class="form">
+          <mat-form-field class="inputForm">
+            <mat-label>Username</mat-label>
+            <input matInput>
+          </mat-form-field>
+          <mat-form-field class="inputForm">
+            <mat-label>Password</mat-label>
+            <input matInput type="{{ isVisibility === 'visibility' ? 'password' : 'text' }}">
+            <mat-icon class="iconVisibly" (click)="changeVisibility()">{{ isVisibility }}</mat-icon>
+          </mat-form-field>
+          <a class="forgot">Forgot Password?</a>
+          <div class="section-btn">
+            <button mat-raised-button class="btn-basic">Login</button>
+          </div>
+          <p class="noRegister">Don't have an account? <a href="">Register</a></p>
+        </form>
+        <hr>
+      </div>
+    </div>
+  </mat-card>
+  <section class="sectionTyped">
+    <ngx-typed-js class="configTyped" [strings]="['Connect with people.', 'Make new fiends.', 'Share your memories.', 'Create new relationships.']" [loop]="true" [shuffle]="false" [typeSpeed]="40">
+      <h1 class="typing"></h1>
+    </ngx-typed-js>
+  </section>
+</section>

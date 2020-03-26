@@ -1,0 +1,14 @@
+{
+    "Cities": [
+        {
+            "id": 1,
+            "country": 1,
+            "name": "test"
+        },
+        {
+            "id": 1,
+            "country": 1,
+            "name": "test1"
+        }
+    ]
+}

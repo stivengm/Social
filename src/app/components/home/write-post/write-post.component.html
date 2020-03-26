@@ -1,0 +1,11 @@
+<mat-card class="write-post">
+  <form class="textarea">
+    <mat-form-field class="example-full-width">
+      <mat-label>¿Qué piensas?</mat-label>
+      <textarea matInput placeholder="Escribe lo que quieras compartir..." [(ngModel)]="publishText" [ngModelOptions]="{standalone: true}"></textarea>
+    </mat-form-field>
+    <section class="btn-publish">
+      <button mat-raised-button color="primary" (click)="publish()">Publicar</button>
+    </section>
+  </form>
+</mat-card>
