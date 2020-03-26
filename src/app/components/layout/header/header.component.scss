@@ -6,6 +6,7 @@ mat-toolbar {
         .titleHeader {
             color: #FFFFFF;
             cursor: pointer;
+            margin-top: 14px;
         }
         .spacer {
             flex: 1 1 auto;
@@ -17,8 +18,14 @@ mat-toolbar {
             position: relative;
             font-size: 28px;
             color: #FFFFFF;
+            height: 8px;
+            span {
+                font-size: 10px;
+                border-radius: 6px;
+            }
         }
         .profile {
+            margin-top: 10px;
             .imgProfile {
                 width: 44px;
                 border-radius: 50%;
