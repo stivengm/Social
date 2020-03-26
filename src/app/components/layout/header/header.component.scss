@@ -1,29 +1,30 @@
 mat-toolbar {
+    background: #1E2321;
     .padd {
         padding: 0 10%;
         height: 6vh;
+        .titleHeader {
+            color: #FFFFFF;
+            cursor: pointer;
+        }
+        .spacer {
+            flex: 1 1 auto;
+        }
+        .iconsHeader {
+            cursor: pointer;
+            margin-left: 15px;
+            display: block;
+            position: relative;
+            font-size: 28px;
+            color: #FFFFFF;
+        }
+        .profile {
+            .imgProfile {
+                width: 44px;
+                border-radius: 50%;
+                margin-left: 25px;
+                cursor: pointer;
+            }
+        }        
     }
-}
-.example-icon {
-    padding: 0 14px;
-}
-.iconsHeader {
-    cursor: pointer;
-    margin-left: 15px;
-    display: block;
-    position: relative;
-    font-size: 28px;
-}
-  
-.example-spacer {
-    flex: 1 1 auto;
-}
-.mat-toolbar-multiple-rows {
-    min-height: 0;
-}
-.imgProfile {
-    width: 44px;
-    border-radius: 50%;
-    margin-left: 25px;
-    cursor: pointer;
 }
